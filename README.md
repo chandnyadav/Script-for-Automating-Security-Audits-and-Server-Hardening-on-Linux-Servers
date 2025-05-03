@@ -66,7 +66,7 @@ bash security_audit.sh [options]
 ```
 
 
-## Usage
+ 
 
 The script can be executed with various options to perform specific audits or hardening tasks. Below are the available options:
 
