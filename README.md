@@ -1,5 +1,4 @@
- # Linux Security Audit Dashboard
-
+ # Linux Security Audits and Server Hardening
 This script is designed to perform a comprehensive security audit on a Linux system. It checks user and group configurations, file permissions, running services, firewall settings, network configurations, available updates, and log monitoring. Additionally, it provides options for hardening the system against potential vulnerabilities.
 
 ## Table of Contents
